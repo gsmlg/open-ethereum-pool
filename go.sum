@@ -197,6 +197,8 @@ github.com/graph-gophers/graphql-go v0.0.0-20201113091052-beb923fada29/go.mod h1
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.0/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-prometheus v1.2.0/go.mod h1:8NvIoxWQoOIhqOTXgfV/d3M/q6VIi02HzZEHgUlZvzk=
 github.com/grpc-ecosystem/grpc-gateway v1.9.0/go.mod h1:vNeuVxBJEsws4ogUvrchl83t/GYV9WGTSLVdBhOQFDY=
+github.com/gsmlg/ethash v0.0.0-20210412172903-8fc2d09b638c h1:Mnd5nFJm90q9lws5yuTeOAjb6TBHlurXW0GWs7tASTQ=
+github.com/gsmlg/ethash v0.0.0-20210412172903-8fc2d09b638c/go.mod h1:fcdLyzResuq7MOE7ri5R9K1/dAcB5PMQ1HdXgIzmbw8=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=
 github.com/hashicorp/consul/sdk v0.1.1/go.mod h1:VKf9jXwCTEY1QZP2MOLRhb5i/I/ssyNV1vwHyQBF0x8=
 github.com/hashicorp/errwrap v1.0.0/go.mod h1:YH+1FKiLXxHSkmPseP+kNlulaMuP3n2brvKWEqk/Jc4=
