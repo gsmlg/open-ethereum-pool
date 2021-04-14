@@ -4,8 +4,6 @@
 
 .PHONY: all test clean
 
-# GOBIN = build/bin
-
 all:
 	go get -v ./...
 
@@ -14,3 +12,6 @@ test: all
 
 clean:
 	rm -fr build/_workspace/pkg/ build/bin/*
+
+build: clean
+	go build -o build/bin/ -v ./...
